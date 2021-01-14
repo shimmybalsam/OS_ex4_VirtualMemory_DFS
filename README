@@ -1,0 +1,9 @@
+naamagl, shimmy10
+Naama Glazer(307880971), Shimon Balsam (204693352)
+EX: 4
+
+FILES:
+VirtualMemory.cpp - Implements the VirtualMemory.h library
+Makefile - compiles libVirutalMemory library
+README - This file.
+
